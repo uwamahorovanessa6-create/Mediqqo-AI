@@ -1,0 +1,5 @@
+-- Reference only: your database already has these tables.
+-- If you need to recreate from scratch, use the original schema provided in the chat.
+-- The application expects the following eight tables:
+-- hospitals, users, patients, vital_signs, appointments,
+-- invitations, ai_insights, notifications.

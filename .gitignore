@@ -1,0 +1,21 @@
+
+# Private configuration
+.env
+.env.*
+config.local.php
+config/database.php
+database.php
+setup.php
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Temporary files
+*.log
+*.tmp
+~$*
+
+# Local database backups
+*.sql.zip
+*.sqlite
